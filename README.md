@@ -4,7 +4,6 @@ Welcome to a collection of beginner-friendly Python scripts that teach you core 
 
 Each file is a bite-sized challenge designed to help you **think like a coder**, not just copy one.
 
-> Calm grind. Smart commits. Mastery in progress.
 
 ---
 
