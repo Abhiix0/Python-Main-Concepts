@@ -24,7 +24,7 @@ Each file is a bite-sized challenge designed to help you **think like a coder**,
 | NumPy               | `Learn_Numpy.py`       | Matrix powers unlocked                   |
 | Pandas              | `Learn_Pandas.py`      | Data analysis in chill mode              |
 
-> More coming soon: Tkinter GUI, Turtle graphics, mini projects...
+> More coming soon: Tkinter GUI, Turtle graphics, mini projects, and with examples ...
 
 ---
 
