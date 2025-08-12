@@ -1,0 +1,1 @@
+#Given two lists (names and scores), create a dictionary mapping names to scores.
