@@ -2,9 +2,6 @@
 
 Welcome to a collection of beginner-friendly Python scripts that teach you core programming concepts through real problems, not just boring syntax dumps.
 
-Each file is a bite-sized challenge designed to help you **think like a coder**, not just copy one.
-
-
 ---
 
 ### 📂 What's Inside?
